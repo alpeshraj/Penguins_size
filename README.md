@@ -1,5 +1,5 @@
 # Penguins_size
-Analysing and using Decision tree classifier
+Analysing and using different type of classifier
 # Our goal is to create a model that can help a species of a penguin based on physical attributes, then we can use that model to help researchers classify penguins in the field, instead of needing an experienced biologist
 # Contents
 1. Describing the data
